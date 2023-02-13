@@ -1,5 +1,5 @@
 # TownBoard
-TownBoard: An internal social application to enable employees to share mini blogs about their work projects &amp; achievements with colleagues.
+TownBoard: An internal social application to enable employees to share mini blogs about their projects &amp; achievements with colleagues.
 
 ## Technologies utilized
 **Built with**: JavaScript, Node.js, Express.js, MongoDB, GoogleAuth, Handlebars, CSS + MaterializeCSS
