@@ -1,5 +1,5 @@
 # TownBoard
-TownBoard: A social platform enabling users to share announcements and mini-blogs about initiatives, projects, and accomplishments within an organization. Built with Node.js+Express.js, MongoDB, Google OAuth 2.0, Handlebars, CSS + MaterializeCSS
+TownBoard: A social platform enabling users to share announcements and mini-blogs about initiatives, projects, and accomplishments within an organization.
 
 ## Technologies utilized
 **Built with**: JavaScript, Node.js, Express.js, MongoDB, Google OAuth 2.0, Handlebars, CSS + MaterializeCSS
